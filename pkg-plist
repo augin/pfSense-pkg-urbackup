@@ -1,0 +1,30 @@
+/etc/inc/priv/urbackup.priv.inc
+bin/urbackupclientctl
+etc/rc.d/urbackup.sh
+etc/urbackup/mariadbdump.conf
+etc/urbackup/mariadbxtrabackup.conf
+etc/urbackup/postgresbase.conf
+etc/urbackup/postgresqldump.conf
+pkg/urbackup.xml
+sbin/urbackupclientbackend
+%%DATADIR%%/info.xml
+share/urbackup/scripts/list
+share/urbackup/scripts/list_incr
+share/urbackup/scripts/mariadbdump
+share/urbackup/scripts/mariadbpostbackup
+share/urbackup/scripts/mariadbprebackup
+share/urbackup/scripts/mariadbxtrabackup
+share/urbackup/scripts/mariadbxtrabackup_incr
+share/urbackup/scripts/postgresbase
+share/urbackup/scripts/postgresqldump
+share/urbackup/scripts/postgresqlpostbackup
+share/urbackup/scripts/postgresqlprebackup
+share/urbackup/scripts/restore-mariadbbackup
+share/urbackup/scripts/setup-mariadbbackup
+share/urbackup/scripts/setup-postgresbackup
+share/urbackup/updates_h.dat
+share/urbackup/urbackup_ecdsa409k1.pub
+var/urbackup/version.txt
+@dir var/urbackup/data
+@dir /etc/inc/priv
+@dir /etc/inc

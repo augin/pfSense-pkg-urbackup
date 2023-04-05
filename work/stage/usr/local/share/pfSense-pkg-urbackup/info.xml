@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<pfsensepkgs>
+	<package>
+		<name>urbackup</name>
+		<website>http://github.com</website>
+		<descr><![CDATA[Urbackup client.]]></descr>
+		<version>2.5.23_3</version>
+		<configurationfile>urbackup.xml</configurationfile>
+		<logging>
+			<logfilename>urbackupclient.log</logfilename>
+		</logging>
+	</package>
+</pfsensepkgs>

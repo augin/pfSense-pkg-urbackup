@@ -1,0 +1,15 @@
+name: "pfSense-pkg-urbackup"
+version: "2.5.23_3"
+origin: sysutils/pfSense-pkg-urbackup
+comment: <<EOD
+pfSense package urbackup
+EOD
+maintainer: coreteam@pfsense.org
+prefix: /usr/local
+categories: [ sysutils, ]
+licenselogic: single
+licenses: [ APACHE20, ]
+deps: { 
+}
+options: {
+}
