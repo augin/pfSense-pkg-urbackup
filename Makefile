@@ -2,7 +2,7 @@
 
 PORTNAME=	pfSense-pkg-urbackup
 PORTVERSION=	2.5.23
-PORTREVISION=	3
+PORTREVISION=	4
 CATEGORIES=	sysutils
 MASTER_SITES=	# empty
 DISTFILES=	# empty

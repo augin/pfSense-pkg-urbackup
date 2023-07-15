@@ -1,6 +1,6 @@
-/usr/local/share/licenses/pfSense-pkg-urbackup-2.5.23_3/catalog.mk
-/usr/local/share/licenses/pfSense-pkg-urbackup-2.5.23_3/LICENSE
-/usr/local/share/licenses/pfSense-pkg-urbackup-2.5.23_3/APACHE20
+/usr/local/share/licenses/pfSense-pkg-urbackup-2.5.23_4/catalog.mk
+/usr/local/share/licenses/pfSense-pkg-urbackup-2.5.23_4/LICENSE
+/usr/local/share/licenses/pfSense-pkg-urbackup-2.5.23_4/APACHE20
 /etc/inc/priv/urbackup.priv.inc
 bin/urbackupclientctl
 etc/rc.d/urbackup.sh

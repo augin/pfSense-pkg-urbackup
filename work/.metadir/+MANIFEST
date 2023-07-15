@@ -1,5 +1,5 @@
 name: "pfSense-pkg-urbackup"
-version: "2.5.23_3"
+version: "2.5.23_4"
 origin: sysutils/pfSense-pkg-urbackup
 comment: <<EOD
 pfSense package urbackup
